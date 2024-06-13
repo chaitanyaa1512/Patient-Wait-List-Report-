@@ -65,7 +65,7 @@ https://app.powerbi.com/reportEmbed?reportId=37da9ef2-9c2e-4669-a3ea-1995a236d4c
 
 # Key Takeaways:
 
--Increase in Capacity Needs: The notable increase in both inpatient (27 cases) and outpatient (17,760 cases) demands suggests a need for expanded capacity and improved patient flow management, potentially requiring a 25% increase in resource allocation.
+-Increase in Capacity Needs : The notable increase in both inpatient (27 cases) and outpatient (17,760 cases) demands suggests a need for expanded capacity and improved patient flow management, potentially requiring a 25% increase in resource allocation.
 
 -Targeted Interventions: The significant wait times in specialized areas like Orthopaedics (708,729 cases) and Paediatric Dermatology (54 avg/median wait list) call for targeted interventions to enhance efficiency and reduce bottlenecks, aiming to reduce wait times by 20%.
 
