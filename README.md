@@ -15,6 +15,12 @@ https://app.powerbi.com/reportEmbed?reportId=37da9ef2-9c2e-4669-a3ea-1995a236d4c
 
 3)Detailed specialty level & age profile analysis.
 
+# Views Required:
+
+1. Summary Page.
+
+2. Detailed Page for Granular Analysis.
+
 # Key Features:
 1) Data Transformation & Modelling:
 
@@ -73,5 +79,7 @@ https://app.powerbi.com/reportEmbed?reportId=37da9ef2-9c2e-4669-a3ea-1995a236d4c
 
 # Dashboard Snapshot: 
 ![Screenshot 2024-06-13 230243](https://github.com/chaitanyaa1512/Patient-Wait-List-Report-/assets/94222140/64ad7bf2-2662-4cb0-bab1-30067ebe829b)
+
+Check out for a detailed documentation of the project.
 Thank you:)
 
