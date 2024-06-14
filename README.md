@@ -3,7 +3,8 @@
 # Overview: 
 The Patient Wait List Analysis Dashboard provides an insightful and comprehensive view of patient waiting lists. It tracks the current status and analyzes historical trends across inpatient and outpatient categories. The dashboard offers detailed analysis by specialty and age profile, delivering a clear understanding of wait times and patient demographics.
 
-# Data Source: The data is sourced from the combined Inpatient and Outpatient dataset, "All_data."
+# Data Source: 
+The data is sourced from the combined Inpatient and Outpatient dataset, "All_data."
 
 # Project Link: 
 https://app.powerbi.com/reportEmbed?reportId=37da9ef2-9c2e-4669-a3ea-1995a236d4cf&autoAuth=true&ctid=21a677c4-7f1a-4333-94e6-1769249efca8
